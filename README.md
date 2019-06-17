@@ -1,0 +1,2 @@
+# Multipurpose-Alarm-System
+During our journey through train and bus, we carry many important things at lift our and all the time we have fear that someone might lift our  luggage or with in home we many precious things which have to be kept safe from outsiders. So to protect our materials we normally lock our things through old ways by the help of chain and locks. But after all such locks we still have fear that someone may slash the chain or lock and take away our precious material. MAS is solution for it. Watch video for explanation.
